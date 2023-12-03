@@ -1,0 +1,13 @@
+# Ignore compiled files
+*.o
+*.class
+*.pyc
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore build directories
+/build/
+/dist/
+/node_modules/

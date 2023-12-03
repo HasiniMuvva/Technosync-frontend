@@ -1,0 +1,47 @@
+.center{
+    margin-top:10%;
+}
+.col .savshar a{
+    font-size: 1.8rem;
+    color: black;
+}
+.address{
+    font-size: 25px;
+}
+.airbnb-title{
+    font-size: 30px;
+}
+.details{
+    font-size: 15px;
+}
+.anocolor{
+    color: black;
+}
+.wd-font{
+    font-size: 15px;
+}
+.wd-center{
+    text-align: center;
+}
+.anocolordec{
+    text-decoration: none;
+    color: black;
+}
+.amenities i{
+font-size: 2.5rem;
+}
+.amenities{
+    font-size: 2rem;
+}
+.wd-fixed{
+    font-size: 15px;
+}
+.wd-price{
+    font-size: 25px;
+}
+.wd-font{
+    font-size: 15px;
+}
+.am-bar i{
+    font-size: 4rem;
+}
